@@ -9,7 +9,7 @@
 
 
 ##
-<!--<a href="https://www.facebook.com/nidal.zabade">
+<a href="https://www.facebook.com/nidal.zabade" target="_blank">
   Facebook
-  </a>-->
+  </a>
 
