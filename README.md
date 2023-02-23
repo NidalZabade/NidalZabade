@@ -6,21 +6,21 @@
 
 ## ✍️Used languages and Tools
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logo=mips&logoColor=white">
-<img src="https://img.shields.io/badge/Assembly-9cf?style=for-the-badge&logo=assembly&logoColor=black">
-<img src="https://img.shields.io/badge/Verilog-DA291C?style=for-the-badge&logo=verilog&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/MIPS-000000?style=for-the-badge&logo=mips&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Assembly-9cf?style=for-the-badge&logo=assembly&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/Verilog-DA291C?style=for-the-badge&logo=verilog&logoColor=white">
 
 
 
