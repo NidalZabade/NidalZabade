@@ -1,13 +1,15 @@
 # Hi 😃
-<br /> 
+
+<br />
 
 <br>
 
 ## 💡About Me
+
 - 🫡I am Nidal Zabade
 - 💻Computer Engineering Student at Birzeit University
 
-<br /> 
+<br />
 
 <br>
 
@@ -29,17 +31,16 @@
 <img align="left" src="https://img.shields.io/badge/Assembly-9cf?style=for-the-badge&logo=assembly&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/Verilog-DA291C?style=for-the-badge&logo=verilog&logoColor=white">
 
-
 <br /> 
 <br>
 <br /> 
 <br>
 
 ## 🧾Github Status
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NidalZabade&show_icons=true&theme=highcontrast&include_all_commits=false&bg_color=0d1117&hide_border=true&title_color=58a6fe&icon_color=58a6ef#gh-dark-mode-only&cache_second=7319"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidalZabade&theme=highcontrast&layout=compact&include_all_commits=false&langs_count=10&bg_color=0d1117&hide_border=true&title_color=58a6fe&icon_color=58a6ef#gh-dark-mode-only&cache_second=7319"/>
-
 
 <br /> 
 <br>
@@ -52,9 +53,9 @@
 <br>
 
 ## 📫 How to reach me
+
 <a href="mailto:nidal1zabade@gmail.com">
   <img align="left" alt="Nidal Zabade | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/nidal-zabade-379523264/">
   <img align="left" alt="Nidal Zabade | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
