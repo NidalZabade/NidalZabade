@@ -7,8 +7,7 @@
 ## 💡About Me
 
 - 🫡I am Nidal Zabade
-- 💻Computer Engineering Student at <a href="https://www.birzeit.edu/en" target="_blank" rel="noopener"><span>Birzeit University</span> </a>.
-
+- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
 
 <br />
 
