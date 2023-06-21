@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">🫡I am Nidal Zabade<br>💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)<br>📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
+- 🫡I am Nidal Zabade
+- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
+- 📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
 
 ###
 
