@@ -2,13 +2,17 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2051997498840383601/162674E15E30648E48D5D47AE6E6245B49F8B4C8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
+
+###
+
 <h2 align="left">💡About Me</h2>
 
 ###
 
-- 🫡I am Nidal Zabade
-- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
-- 📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
+<p align="left">🫡I am Nidal Zabade<br>💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)<br>📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
 
 ###
 
@@ -22,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -40,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
 </div>
 
@@ -75,7 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NidalZabade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NidalZabade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
