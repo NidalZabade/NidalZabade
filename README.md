@@ -12,9 +12,9 @@
 
 ###
 
-* 🫡I am Nidal Zabade
-* 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
-* 📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
+- 🫡I am Nidal Zabade
+- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
+- 📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
 
 ###
 
@@ -45,10 +45,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+</div>
+
+###
+
+<h2 align="left">📚Used Frameworks</h2>
+
+###
+
+  <a herf="https://expressjs.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
 
 ###
 
