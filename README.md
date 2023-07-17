@@ -13,8 +13,8 @@
 ###
 
 - 🫡I am Nidal Zabade
-- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en)
-- 📌Currently training in [Asal Technologies](https://www.asaltech.com/)</p>
+- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en) *September 2020 - Present*
+- 📌Trained at [ASAL Technologies](https://www.asaltech.com/) *April 2023 - July 2023*
 
 ###
 
