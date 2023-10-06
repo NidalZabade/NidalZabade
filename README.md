@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2051997498840383601/162674E15E30648E48D5D47AE6E6245B49F8B4C8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
+</div> -->
 
 ###
 
@@ -13,8 +13,8 @@
 ###
 
 - 🫡I am Nidal Zabade
-- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en) *September 2020 - Present*
-- 📌Trained at [ASAL Technologies](https://www.asaltech.com/) *April 2023 - July 2023*
+- 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en) _September 2020 - Present_
+- 📌Trained at [ASAL Technologies](https://www.asaltech.com/) _April 2023 - July 2023_
 
 ###
 
@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NidalZabade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NidalZabade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NidalZabade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
