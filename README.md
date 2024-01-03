@@ -16,7 +16,7 @@
 - 💻Computer Engineering Student at [Birzeit University](https://www.birzeit.edu/en) _September 2020 - Present_
 - 📌Trained at [ASAL Technologies](https://www.asaltech.com/) _April 2023 - July 2023_
 
-###
+<!-- ###
 
 <h2 align="left">✍️Used languages</h2>
 
@@ -99,7 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NidalZabade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### -->
 
 <h2 align="left">📫 How to reach me</h2>
 
